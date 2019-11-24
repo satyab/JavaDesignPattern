@@ -1,4 +1,4 @@
-package behavioral.strategy.duck;
+package behavioral.strategy.duckSimulation;
 
 public class Squeak implements QuackBehaviour {
   @Override

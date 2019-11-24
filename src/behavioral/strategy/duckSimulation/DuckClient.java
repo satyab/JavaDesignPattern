@@ -1,4 +1,4 @@
-package behavioral.strategy.duck;
+package behavioral.strategy.duckSimulation;
 
 public class DuckClient {
   public static void main(String[] args) {
